@@ -126,7 +126,7 @@ table{
     border-radius: 20px;
 }
 
-.true-number{
+.false-value{
     margin-top: 3rem;
     background-color: var(--color-main);
     color: var(--color-white);
@@ -137,7 +137,7 @@ table{
     text-align: center;
 }
 
-.true-rosa{
+.true-value{
     margin-top: 3rem;
     background-color: var(--color-negative);
     color: var(--color-white);
